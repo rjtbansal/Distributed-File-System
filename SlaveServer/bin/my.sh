@@ -1,0 +1,2 @@
+cd backupdir
+patch < patchfile

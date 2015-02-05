@@ -1,0 +1,6 @@
+diff -u ./backupdir/first.txt ./dir/first.txt
+--- ./backupdir/first.txt	2014-05-07 17:43:37.000000000 -0700
++++ ./dir/first.txt	2014-05-07 17:44:21.000000000 -0700
+@@ -1 +1,2 @@
+ this is a first file
++modified
